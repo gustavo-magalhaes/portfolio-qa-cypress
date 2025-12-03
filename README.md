@@ -23,8 +23,8 @@ This project contains automated test cases covering essential user flows includi
 - CT02: Signup with created username
 
 ### Transactions Feature
-- CT01 - Login + Payment Transaction
-- CT02 - Login + Request Payment Transaction
+- CT01: Login + Payment Transaction
+- CT02: Login + Request Payment Transaction
 
 ## Test Results
 
