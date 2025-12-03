@@ -1,11 +1,12 @@
-describe('Function: Login', () => {
+describe('Function: Signup and Login', () => {
 
   beforeEach(() => {
     cy.visit('/signin');
   });
 
   afterEach(() => {
-    cy.wait(1000); // Espera 1 segundo após CADA teste
+    cy.wait(2000);
+    cy.log('Test completed');
   });
 
   it('CT01 - Successful Signup', () => {
