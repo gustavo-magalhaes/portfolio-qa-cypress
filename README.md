@@ -18,39 +18,11 @@ This project contains automated test cases covering essential user flows includi
 - TC01: Successful login with valid credentials
 - TC02: Login attempt with invalid credentials
 
-### User Registration Feature
-- TC03: Successful user registration with valid data
-- TC04: Validation of required fields
 
-## Getting Started
+## Test Results
 
-### Prerequisites
-
-- Node.js v12 or higher
-- npm or yarn package manager
-
-### Installation
-
-1. Clone this repository
-2. Run: npm install
-3. Clone and run Cypress Real World App on http://localhost:3000
-
-### Running Tests
-
-Open Cypress Test Runner: npx cypress open
-Run tests in headless mode: npx cypress run
-
-## Project Structure
-
-portfolio-qa-cypress/
-- cypress/e2e/ (test files)
-- cypress/videos/ (test recordings)
-- cypress/screenshots/ (test evidence)
-
-## Test Approach
-
-Tests follow the Arrange-Act-Assert pattern. Each test is independent and can run in isolation without dependencies on other tests.
+https://www.youtube.com/watch?v=8oPe66sHAnE
 
 ## Author
 
-Your Name - GitHub: @gustavo-magalhaes
+Gustavo Magalhães - GitHub: @gustavo-magalhaes
