@@ -18,6 +18,13 @@ This project contains automated test cases covering essential user flows includi
 - TC01: Successful login with valid credentials
 - TC02: Login attempt with invalid credentials
 
+### Signup/Signin Feature
+- CT01: Successful Signup
+- CT02: Signup with created username
+
+### Transactions Feature
+- CT01 - Login + Payment Transaction
+- CT02 - Login + Request Payment Transaction
 
 ## Test Results
 
