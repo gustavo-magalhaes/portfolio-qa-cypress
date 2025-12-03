@@ -21,11 +21,7 @@ This project contains automated test cases covering essential user flows includi
 
 ## Test Results
 
--Signin
-https://youtu.be/8oPe66sHAnE
-
--Signup/Signin
-https://youtu.be/wKVY2zAwRKE
+https://www.youtube.com/watch?v=8oPe66sHAnE
 
 ## Author
 
